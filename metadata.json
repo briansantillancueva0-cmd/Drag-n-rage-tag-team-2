@@ -1,0 +1,6 @@
+{
+  "name": "DBZ Tag Team",
+  "description": "Launcher, mod manager, custom texture pack installer, and tag-team battle simulator for Dragon Ball Z: Tenkaichi Tag Team on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
